@@ -1,0 +1,36 @@
+/* todo.component.css */
+
+.todo-form {
+    margin-bottom: 20px;
+  }
+  
+  .todo-form input {
+    width: calc(50% - 5px);
+    margin-right: 5px;
+    padding: 5px;
+  }
+  
+  .todo-form button {
+    padding: 5px 10px;
+  }
+  
+  .todo-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .todo-item h3 {
+    margin-top: 0;
+  }
+  
+  .actions button {
+    margin-right: 5px;
+  }
+  
